@@ -1,5 +1,8 @@
 # San Francisco City Employee Salary Prediction
 
+## 🚀 Live Demo
+[Click here to try the app](https://sf-salary-prediction-6fpjgaekdwijuthqgwoevv.streamlit.app/)
+
 ## About
 This project implements machine learning to predict the base salaries of San Francisco city employees. The XGBoost model is trained on over 1 million employee records.
 
