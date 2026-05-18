@@ -1,5 +1,5 @@
 streamlist
-xgboost
+xgboost==1.7.6
 pandas
 numpy
 scikit-learn
